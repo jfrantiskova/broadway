@@ -1,5 +1,6 @@
 body{
   font-family: Helvetica;
+  text-align: center;
 }
 h1{
   font-size: 70px;
@@ -10,6 +11,6 @@ li{
   font-size: 18px;
   color: white;
 }
-nav{
-  background: url(../resources/the-flatiron-building.png);
+div{
+  background: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png)
 }
